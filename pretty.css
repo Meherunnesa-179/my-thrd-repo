@@ -1,0 +1,118 @@
+*{ 
+    margin:0 auto;
+    background-color: skyblue;
+}
+
+.heading {
+    margin: 2px 50px;
+    text-align:center;
+    text-transform: capitalize;
+    text-decoration:underline ;}
+.para-hole{ 
+   background-color: cyan;
+    text-align: justify;
+    margin:0px 400PX;
+    border:25px ridge pink;
+    border-radius: 15PX;
+    padding: 40px;
+    padding-top:  0px;
+    box-sizing: border-box;
+    font-weight: 800;
+    font-size: medium;
+   
+    overflow: auto;
+    
+    
+
+}
+
+
+.para-odd{
+  background-color:deepskyblue;
+    text-align: justify;
+    margin: 0px 400PX;
+    border:25px solid goldenrod;
+    border-radius: 15PX;
+    padding: 40px;
+    padding-top:  0px;
+    box-sizing: border-box;
+    font-weight: 800;
+    font-size: medium;
+    
+    overflow: auto;
+
+}
+.para-even {
+     background-color:yellow;
+    text-align: justify;
+    margin: 0px 400PX;
+    border:25px  black;
+    border-style: double double solid solid;
+    border-radius: 15PX;
+    padding: 40px;
+    padding-top:  0px;
+    box-sizing: border-box;
+    font-weight: 800;
+    font-size: medium;
+    
+    overflow: auto;
+    
+
+
+}
+.para-frth {
+     background-color:red;
+    text-align: justify;
+    margin: 0px 400PX;
+    border:25px greenyellow;
+    border-style: dashed ;
+    border-radius: 15PX;
+    padding: 40px;
+    padding-top:  0px;
+    box-sizing: border-box;
+    font-weight: 800;
+    font-size: medium;
+    
+    overflow: auto;
+    
+
+
+
+}
+.para-fifth{  
+    background-color:yellowgreen;
+    text-align: justify;
+    margin: 0px 400PX;
+    border:25px solid  red;
+    border-style: groove;
+    border-radius: 15PX;
+    padding: 40px;
+    padding-top:  0px;
+    box-sizing: border-box;
+    font-weight: 800;
+    font-size: medium;
+   
+    overflow: auto;
+   
+
+
+}
+.para-sixth{  background-color:gold;
+    text-align: justify;
+    margin: 0px 400PX;
+    border:25px  slateblue;
+    border-style:groove groove double double ;
+    border-radius: 15PX;
+    padding: 40px;
+    padding-top:  0px;
+    box-sizing: border-box;
+    font-weight: 800;
+    font-size: medium;
+    overflow: auto;
+
+
+} 
+.extra{ 
+    background-color: greenyellow;
+}
+
